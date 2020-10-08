@@ -1,6 +1,6 @@
 <h1>COVID-19 TRACKER</h1>
 
-This project was bootstrapped wit [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
